@@ -13,4 +13,4 @@ phases:
       - echo "CDK: $(cdk --version)"
 artifacts:
   files:
-    - '**/*' 
+    - '**/*'
