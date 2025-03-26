@@ -1,0 +1,10 @@
+{
+  "name": "codebuild-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Build successful' > output.txt"
+  },
+  "dependencies": {
+    "aws-cdk": "latest"
+  }
+} 
